@@ -39,7 +39,7 @@ THEN the password is either displayed in an alert or written to the page
 https://github.com/macykcool/password-generator
 
 ## Deployed
-
+https://macykcool.github.io/password-generator/
 
 ## Made with ❤️️ by Macy Mannix
 Mentored by UC Davis Full Stack Web Developer Bootcamp
